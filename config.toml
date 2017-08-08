@@ -1,4 +1,4 @@
-baseurl                 = "http://paralune.com"
+baseurl                 = "http://paralune.com/"
 languageCode            = "en-us"
 title                   = "paralune"
 theme                   = "hugo-phlat-theme"
