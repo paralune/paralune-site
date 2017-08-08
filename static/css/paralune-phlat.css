@@ -1,0 +1,504 @@
+:root {
+    --primary-color-01: #ffcc00;
+    --primary-color-02: #b87bcc;
+    --primary-color-02-darken: #9056a3;
+    --light-text-color: #e7e7d1;
+    --dark-text-color: black;
+    --bg-color-01: #002832;
+    --bg-color-01-darken: #00161C;
+}
+
+body {
+    background-color: black;
+    padding-top: 100px;
+
+    background: url('/images/background.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    color: var(--light-text-color);
+}
+
+/*
+ * START NAVIGATION
+ */
+.navbar-default {
+    background-color: var(--primary-color-01);
+    padding: 15px 0;
+    text-transform: none;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Copse', serif;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: var(--bg-color-01);
+}
+
+.nav>li:hover {
+    border-top: 4px solid var(--primary-color-02);
+}
+
+.nav>li {
+    border-top: 4px solid transparent;
+    font-weight: 700;
+    margin: 0 20px;
+    text-transform: uppercase;
+}
+
+.nav>li.active {
+    border-top: 4px solid #cc4444;
+}
+
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background-color: transparent;
+    color: #555555;
+}
+
+.navbar .nav > li > a {
+    color: black;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: var(--primary-color-02);
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+/*
+ * END NAVIGATION
+ */
+
+.jumbotron {
+    background-color: transparent;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*
+    background: url('/images/jumbotron-background.png');
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+    background-position: center center;
+    */
+}
+
+#company-logo {
+	width: 250px;
+    padding-bottom: 30px;
+}
+
+#company-summary span {
+    padding: 10px;
+    display: inline-block;
+    background-color: var(--bg-color-01);
+    -moz-box-shadow: 0 0 20px 2px var(--bg-color-01);
+	-webkit-box-shadow: 0 0 20px 2px var(--bg-color-01);
+	box-shadow: 0 0 20px 2px var(--bg-color-01);
+}
+
+#content-main {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: var(--bg-color-01-darken);
+ }
+
+ #content-main .row {
+     margin-bottom: 15px;
+ }
+
+.content-card {
+    background-color: var(--bg-color-01);
+    border: 0px solid #e9e9e9;
+    padding: 40px;
+    border-top: 0px solid #337ab7;
+}
+
+.content-card .meta a {
+    color: var(--light-text-color);
+}
+
+.content-card .share li {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+}
+
+.content-card .share a {
+    padding: 7px 10px;
+    margin-bottom: 5px;
+    display: block;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.content-card .share a:hover {
+    text-decoration: none;
+}
+
+.content-card .facebook-share a { background-color: #425F9C; }
+.content-card .googleplus-share a { background-color: #DB4437; }
+.content-card .twitter-share a { background-color: #1da1f2; }
+.content-card .reddit-share a { background-color: #FF4602; }
+.content-card .linkedin-share a { background-color: #1B86BC; }
+.content-card .stumbleupon-share a { background-color: #EB4924; }
+
+.content-card .facebook-share a:hover { background-color: #2d4373; }
+.content-card .googleplus-share a:hover { background-color: #c63224; }
+.content-card .twitter-share a:hover { background-color: #0085be; }
+.content-card .reddit-share a:hover { background-color: #cc3700; }
+.content-card .linkedin-share a:hover { background-color: #005983; }
+.content-card .stumbleupon-share a:hover { background-color: #ca3412; }
+
+.content-card h1 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+.content-card h1 a {
+    color: inherit;
+}
+
+.content-card h2 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 24px
+}
+
+.content-card h3 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 18px
+}
+
+.content-card img {
+    width: auto;
+}
+
+.content-card .list-inline {
+    margin-bottom: 20px;
+}
+
+.content-card .btn {
+    border-radius: 0;
+    margin-top: 15px;
+}
+
+.content-card .tags li {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 12px;
+}
+
+.content-card .tags a {
+    background-color: var(--primary-color-01);
+    padding: 3px 10px;
+    margin-bottom: 5px;
+    display: block;
+    color: black;
+}
+
+.content-card .tags a:hover {
+    background-color: var(--primary-color-02);
+    text-decoration: none;
+}
+
+.btn-custom {
+    color: black;
+    background-color: var(--primary-color-01);
+    border: 0px solid var(--primary-color-01);
+}
+
+.btn-custom.focus, .btn-custom:focus, .btn-custom:hover {
+    color: black;
+    background-color: var(--primary-color-02);
+    transition: background-color 0.3s linear;
+}
+
+.btn-custom:active {
+    color: black;
+    background-color: var(--primary-color-02-darken);
+}
+
+.card {
+    background-color: var(--bg-color-01);
+    border: 0px solid #e9e9e9;
+    padding: 20px;
+    border-top: 0px solid #337ab7;
+}
+
+.card h2 {
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+
+.card h5 {
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+.posts-recent li {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.posts-recent li:last-of-type {
+    border-bottom: none;
+}
+
+.posts-recent li a {
+    color: var(--light-text-color);
+}
+
+.posts-recent li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: transparent;
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+footer .container .row:not(:last-of-type) {
+    margin-bottom: 10px;
+}
+
+footer .list-inline li {
+    margin-right: 15px;
+}
+
+footer .links li {
+    margin-bottom: 10px;
+}
+
+footer .links a {
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer .social-media {
+    text-align: left;
+    /* Fixes a list spacing inconsistency issue. */
+    font-family: sans-serif;
+}
+
+footer .social-media li {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    border: 1px solid #cccccc;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+    display: inline;
+    float: right;
+}
+
+footer .social-media li:not(:last-of-type) {
+    border-left: none;
+}
+
+footer .social-media a {
+    background-color: var(--bg-color-01-darken);
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer .social-media a:hover {
+    background-color: var(--primary-color-02);
+}
+
+footer .social-media .fa {
+    padding-right: 0px;
+}
+
+footer a {
+    color: white;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #333333;
+}
+
+.fa {
+    padding-right: 5px;
+}
+
+#back-to-top.affix-top {
+    position: absolute; /* allows it to "slide" up into view */
+    bottom: -82px;
+    right: 10px;
+}
+#back-to-top.affix {
+    position: fixed; /* keeps it on the bottom once in view */
+    bottom: 18px;
+    right: 10px;
+}
+
+.sidebar .social-media {
+    padding-left: 5px;
+    /* Fixes a list spacing inconsistency issue. */
+    font-family: sans-serif;
+}
+
+.sidebar .social-media li {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+}
+
+.sidebar .social-media a {
+    background-color: var(--primary-color-01);
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sidebar .social-media a:hover {
+    color: black;
+}
+
+.sidebar .social-media a:hover {
+    background-color: var(--primary-color-02);
+}
+
+.sidebar a {
+    color: black;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.sidebar .fa {
+    padding-right: 0px;
+}
+
+pre {
+    border-radius: 0px;
+    padding: 10px;
+    border: none;
+    background-color: #282b2e;
+}
+
+pre code {
+    white-space: pre;
+}
+
+.share-buttons {
+    padding-top: 15px;
+}
+
+.share-buttons span {
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    background-color: var(--bg-color-01-darken);
+}
+
+.btn-default {
+  color: black;
+  background-color: var(--primary-color-01);
+  border-width: 0px;
+}
+.btn-default:focus,
+.btn-default.focus {
+  color: black;
+  background-color: var(--primary-color-02);
+  border-width: 0px;
+}
+.btn-default:hover {
+  color: black;
+  background-color: var(--primary-color-02);
+  border-width: 0px;
+}
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default {
+  color: black;
+  background-color: var(--primary-color-02);
+  border-width: 0px;
+}
+.btn-default:active:hover,
+.btn-default.active:hover,
+.open > .dropdown-toggle.btn-default:hover,
+.btn-default:active:focus,
+.btn-default.active:focus,
+.open > .dropdown-toggle.btn-default:focus,
+.btn-default:active.focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default.focus {
+  color: black;
+  background-color: var(--primary-color-02-darken);
+  border-width: 0px;
+}
+
+/*
+ * START MAILCHIMP
+ */
+
+#mc_embed_signup {
+    background-color: transparent;
+}
+
+#mc_embed_signup form {
+    padding: 0px;
+}
+
+#mce-EMAIL {
+    color: black;
+}
+
+#mc-embedded-subscribe.button {
+    color: black;
+    background-color: var(--primary-color-01);
+}
+
+#mc-embedded-subscribe.button:hover {
+    color: black;
+    background-color: var(--primary-color-02);
+}
+
+#mc-embedded-subscribe.button:active {
+    color: black;
+    background-color: var(--primary-color-02-darken);
+}
+
+/*
+ * END MAILCHIMP
+ */

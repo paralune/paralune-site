@@ -1,0 +1,61 @@
+<head>
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+    <!--<style type="text/css">
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>-->
+    <link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ .Hugo.Generator }}
+    <title>{{ .Title }}</title>
+    {{ with .Site.Params.bing_webmaster }}
+        <meta name="msvalidate.01" content="{{ . }}" />
+    {{ end }}
+    {{ with .Site.Params.google_webmaster }}
+        <meta name="google-site-verification" content="{{ . }}" />
+    {{ end }}
+    {{ with .Site.Params.alexa }}
+        <meta name="alexaVerifyID" content="{{ . }}" />
+    {{ end }}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <meta name="keywords" content='{{ with .Params.tags }}{{ delimit . "," }}{{ else }}{{ delimit .Site.Params.keywords "," }}{{ end }}' />
+    {{ with .Params.author }}
+        <meta name="author" content="{{ . }}" />
+    {{ end }}
+    {{ with .Site.Params.favicon }}
+        <link rel="icon" type="image/png" href="{{ . }}" sizes="196x196" />
+    {{ end }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlightjs-themes/androidstudio.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/phlat.css" />
+
+    <!-- Pull override fonts from config for easy global styling -->
+    <style>
+        body {
+            font-family: '{{ replace .Site.Params.fontbody "+" " "}}';
+        }
+
+        h1, h2, h3,
+        h4, h5, h6 {
+            font-family: '{{ replace .Site.Params.fontheading "+" " "}}';
+        }
+    </style>
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/paralune-phlat.css" />
+    {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
+        {{ with .Site.Params.google_adsense }}
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({
+                    google_ad_client: "{{ . }}",
+                    enable_page_level_ads: true
+                });
+            </script>
+        {{ end }}
+    {{ end }}
+</head>

@@ -1,0 +1,62 @@
+baseurl                 = "http://paralune.com"
+languageCode            = "en-us"
+title                   = "paralune"
+theme                   = "hugo-phlat-theme"
+description             = "Paralune is a game studio making games about feelings."
+
+[permalinks]
+    post                = "/:year/:month/:slug/"
+    page                = "/:slug/"
+
+[taxonomies]
+    tag                 = "tags"
+    category            = "categories"
+
+# The header menu will appear as an inline-list at the top right of the page
+[[menu.header]]
+    name                = "Home"
+    weight              = 1
+    url                 = "/"
+
+[[menu.header]]
+    name                = "About"
+    weight              = 3
+    url                 = "/about/"
+
+[[menu.header]]
+    name                = "Jobs"
+    weight              = 3
+    url                 = "/jobs/"
+
+# The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
+# [[menu.footer]]
+#    name                = "Privacy Policy"
+#    weight              = 1
+#    url                 = "/privacy-policy/"
+
+[params]
+    keywords            = ["default", "keywords", "if", "no", "front", "matter"]
+    description         = "A description that will appear as a default if front matter does not exist"
+    google_analytics    = "UA-XXXXX-YY"
+    google_adsense      = "ca-pub-XXXXXX"
+    disqus              = "paralune"
+    google_webmaster    = ""
+    bing_webmaster      = ""
+    alexa               = ""
+    favicon             = ""
+    fontbody            = "Droid+Serif"
+    fontheading         = "Copse"
+    paginate            = 5
+
+# Social media icons and links that appear in the footer
+[social]
+    twitter             = "https://twitter.com/ParaluneGames"
+    googleplus          = ""
+    linkedin            = ""
+    youtube             = "https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q"
+    paypal              = ""
+    instagram           = ""
+    reddit              = ""
+    email               = "mailto:contact@paralune.com"
+    pinterest           = ""
+    wordpress           = ""

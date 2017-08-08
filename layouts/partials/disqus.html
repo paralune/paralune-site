@@ -1,0 +1,23 @@
+{{ if eq .Type "post" }}
+    {{ with .Site.Params.disqus }}
+        <div class="row">
+            <div class="col-md-12 content-card">
+                <div id="disqus_thread"></div>
+                <script>
+                    (function() { // DON'T EDIT BELOW THIS LINE
+                        if (window.location.hostname == "localhost") {
+                            document.write("NOTE: You are viewing this site on a local server, so Disqus comments won't be displayed.");
+                        }
+                        var d = document, s = d.createElement('script');
+                        // s.src = 'https://paralune.disqus.com/embed.js';
+                        var disqus_shortname = '{{ . }}';
+                        s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        s.setAttribute('data-timestamp', +new Date());
+                        (d.head || d.body).appendChild(s);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            </div>
+        </div>
+    {{ end }}
+{{ end }}
