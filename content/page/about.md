@@ -35,7 +35,7 @@ You can find him on [Twitter](https://twitter.com/DarrenEMalley) and [LinkedIn](
 
 Matt does programming and environment art. He's been working primarily as a gameplay and tools programmer in the game industry for the last 6 years and has worked on Skylanders, Guitar Hero, and Crash Bandicoot games. He loves Street Fighter, coffee, and rainy weather.
 
-You can find him on [Twitter](https://twitter.com/paralunematt) and [LinkedIn](https://www.linkedin.com/in/matthewsmudz).
+You can find him on [Twitter](https://twitter.com/mattsmudz) and [LinkedIn](https://www.linkedin.com/in/matthewsmudz).
 
 ## Want to work with us?
 
