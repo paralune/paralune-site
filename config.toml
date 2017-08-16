@@ -40,8 +40,8 @@ description             = "Paralune is a game studio making games about feelings
 #    url                 = "/privacy-policy/"
 
 [params]
-    keywords            = ["default", "keywords", "if", "no", "front", "matter"]
-    description         = "A description that will appear as a default if front matter does not exist"
+    keywords            = ["paralune", "indie games", "game studio", "mythic ocean", "underwater", "exploration"]
+    description         = "Paralune is a 3-person game studio based in Austin, TX making games about feelings."
     google_analytics    = ""
     google_adsense      = ""
     disqus              = "paralune"
