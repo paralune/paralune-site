@@ -28,6 +28,11 @@ description             = "Paralune is a game studio making games about feelings
     weight              = 3
     url                 = "/jobs/"
 
+[[menu.header]]
+    name                = "Mythic Ocean"
+    weight              = 3
+    url                 = "/mythic-ocean/"
+
 # The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
 # [[menu.footer]]
 #    name                = "Privacy Policy"
