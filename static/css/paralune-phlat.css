@@ -459,38 +459,3 @@ pre code {
   background-color: #9056a3;
   border-width: 0px;
 }
-
-/*
- * START MAILCHIMP
- */
-
-#mc_embed_signup {
-    background-color: transparent;
-}
-
-#mc_embed_signup form {
-    padding: 0px;
-}
-
-#mce-EMAIL {
-    color: black;
-}
-
-#mc-embedded-subscribe.button {
-    color: black;
-    background-color: #ffcc00;
-}
-
-#mc-embedded-subscribe.button:hover {
-    color: black;
-    background-color: #b87bcc;
-}
-
-#mc-embedded-subscribe.button:active {
-    color: black;
-    background-color: #9056a3;
-}
-
-/*
- * END MAILCHIMP
- */

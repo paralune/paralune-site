@@ -35,12 +35,14 @@ We're using Unreal Engine 4 and currently planning for a PC release on Steam. We
 
 ## Release Date
 
-Development is well under way, but our release date is currently TBA.
+We're planning to release in 2019, but our official release date is TBA.
 
 ## Social
 
 [Twitter](https://twitter.com/ParaluneGames)
 
 [Youtube](https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q)
+
+You can get major project updates by signing up for our [mailing list](http://eepurl.com/dnNdaf).
 
 Are you a member of the press, or just want to get in touch directly? You can contact us via [e-mail](mailto:contact@paralune.com).

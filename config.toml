@@ -29,6 +29,11 @@ description             = "Paralune is a game studio making games about feelings
     url                 = "/jobs/"
 
 [[menu.header]]
+    name                = "Mailing List"
+    weight              = 3
+    url                 = "http://eepurl.com/dnNdaf"
+
+[[menu.header]]
     name                = "Mythic Ocean"
     weight              = 3
     url                 = "/mythic-ocean/"
