@@ -51,7 +51,7 @@ We're planning to release in 2019, but our official release date is TBA.
 
 [Youtube](https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q)
 
-[Mailing list](http://eepurl.com/dnNdaf).
+[Mailing list](http://eepurl.com/dnNdaf)
 
 ## Press
 
