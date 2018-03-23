@@ -7,27 +7,35 @@ author: "Admin"
 
 ## About the Game
 
-*Mythic Ocean* is a single-player, first-person, underwater exploration game set in an otherworldly ocean. The idea for the game came from our mutual fascination with the sea - our love for its gentle beauty, and our fear of its darkest depths.
+_Mythic Ocean_ is a single-player, first-person game that combines underwater exploration with interactive narrative. You'll meet and befriend a pantheon of gods, and your conversation choices will change how they feel and build relationships between them. The world they create in the end is determined by your influence.
 
-You'll meet many strange creatures, and what you say to them will have a big impact on how they feel about you and each other. The mystery of where this world came from - and where it's headed - will become clearer as you form bonds with its inhabitants and help them grow.
+The game is currently in development, but it can now be wishlisted on Steam!
 
-## Videos
+<iframe src="http://store.steampowered.com/widget/814360/" frameborder="0" width="646" height="190"></iframe>
 
-{{< youtube dHriVqfqDMI >}}
+## Trailers
 
-## Images
+{{< youtube l5DNOmEBLcA >}}
+
+## Screenshots
 
 Click any of the screenshots for a high-resolution version.
 
 [![Screenshot 01](/images/presskit/screenshots/preview/screenshot_01.png)](/images/presskit/screenshots/high/screenshot_01.png)
 
-[![Screenshot 01](/images/presskit/screenshots/preview/screenshot_02.png)](/images/presskit/screenshots/high/screenshot_02.png)
+[![Screenshot 02](/images/presskit/screenshots/preview/screenshot_02.png)](/images/presskit/screenshots/high/screenshot_02.png)
 
-[![Screenshot 01](/images/presskit/screenshots/preview/screenshot_03.png)](/images/presskit/screenshots/high/screenshot_03.png)
+[![Screenshot 03](/images/presskit/screenshots/preview/screenshot_03.png)](/images/presskit/screenshots/high/screenshot_03.png)
 
-[![Screenshot 01](/images/presskit/screenshots/preview/screenshot_04.png)](/images/presskit/screenshots/high/screenshot_04.png)
+[![Screenshot 04](/images/presskit/screenshots/preview/screenshot_04.png)](/images/presskit/screenshots/high/screenshot_04.png)
 
-[![Screenshot 01](/images/presskit/screenshots/preview/screenshot_05.png)](/images/presskit/screenshots/high/screenshot_05.png)
+[![Screenshot 05](/images/presskit/screenshots/preview/screenshot_05.png)](/images/presskit/screenshots/high/screenshot_05.png)
+
+[![Screenshot 06](/images/presskit/screenshots/preview/screenshot_06.png)](/images/presskit/screenshots/high/screenshot_06.png)
+
+[![Screenshot 07](/images/presskit/screenshots/preview/screenshot_07.png)](/images/presskit/screenshots/high/screenshot_07.png)
+
+[![Screenshot 08](/images/presskit/screenshots/preview/screenshot_08.png)](/images/presskit/screenshots/high/screenshot_08.png)
 
 ## Platforms
 
@@ -39,10 +47,12 @@ We're planning to release in 2019, but our official release date is TBA.
 
 ## Social
 
-[Twitter](https://twitter.com/ParaluneGames)
+[Twitter](https://twitter.com/MythicOceanGame)
 
 [Youtube](https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q)
 
-You can get major project updates by signing up for our [mailing list](http://eepurl.com/dnNdaf).
+[Mailing list](http://eepurl.com/dnNdaf).
+
+## Press
 
 Are you a member of the press, or just want to get in touch directly? You can contact us via [e-mail](mailto:contact@paralune.com).
