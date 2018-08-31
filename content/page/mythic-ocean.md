@@ -7,6 +7,8 @@ author: "Admin"
 
 ## About the Game
 
+Check out the Mythic Ocean [presskit!](http://press.mythicoceangame.com/sheet.php?p=mythic_ocean)
+
 _Mythic Ocean_ is a single-player, first-person game that combines underwater exploration with interactive narrative. You'll meet and befriend a pantheon of gods, and your conversation choices will change how they feel and build relationships between them. The world they create in the end is determined by your influence.
 
 The game is currently in development, but it can now be wishlisted on Steam!
@@ -45,7 +47,9 @@ We're using Unreal Engine 4 and currently planning for a PC release on Steam. We
 
 We're planning to release in 2019, but our official release date is TBA.
 
-## Social
+## Links
+
+[Presskit](http://press.mythicoceangame.com/)
 
 [Twitter](https://twitter.com/MythicOceanGame)
 
@@ -55,4 +59,4 @@ We're planning to release in 2019, but our official release date is TBA.
 
 ## Press
 
-Are you a member of the press, or just want to get in touch directly? You can contact us via [e-mail](mailto:contact@paralune.com).
+Are you a member of the press, or just want to get in touch directly? Check out our [presskit](http://press.mythicoceangame.com/)! You can contact us via [e-mail](mailto:contact@paralune.com).
