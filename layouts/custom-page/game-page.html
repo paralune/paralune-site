@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{ partial "head.html" . }}
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/mythic-ocean.css" />
+
+    <body>
+        <!-- TODO: this overlaps the banner image, and the mobile menu doesn't work from this page -->
+        <!-- {{ partial "navigation/navigation.html" . }} -->
+
+        <div id="announcement">
+            {{ .Content }}
+
+            <p style="padding: 15px">
+                {{ .Site.Params.copyright }}
+            </p>
+        </div>
+
+        {{ partial "foot.html" . }}
+    </body>
+</html>

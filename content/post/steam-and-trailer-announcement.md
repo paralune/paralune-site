@@ -7,9 +7,7 @@ tags: ["announcements", "mythic ocean"]
 categories: ["Announcements", "Mythic Ocean"]
 ---
 
-You can now wishlist Mythic Ocean on Steam!
-
-<iframe src="http://store.steampowered.com/widget/814360/" frameborder="0" width="646" height="190"></iframe>
+You can now [wishlist Mythic Ocean on Steam!](https://store.steampowered.com/app/814360/Mythic_Ocean/)
 
 We've also released our first full trailer for the game! You can watch it on Steam or on Youtube:
 

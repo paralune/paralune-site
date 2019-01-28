@@ -41,6 +41,7 @@
     </style>
 
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/paralune-phlat.css" />
+
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
         {{ with .Site.Params.google_adsense }}
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

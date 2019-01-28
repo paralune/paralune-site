@@ -51,7 +51,8 @@ description             = "Paralune is a game studio making games about feelings
 
 [params]
     keywords            = ["paralune", "indie games", "game studio", "mythic ocean", "underwater", "exploration"]
-    description         = "Paralune is a 3-person game studio based in Austin, TX making games about feelings."
+    description         = "Paralune is a 3-person game studio based in Austin, TX. We make narrative-focused games that allow our players to be storytellers, too."
+    copyright           = "Copyright 2019 Paralune, LLC"
     google_analytics    = ""
     google_adsense      = ""
     disqus              = "paralune"
@@ -70,7 +71,7 @@ description             = "Paralune is a game studio making games about feelings
     linkedin            = ""
     youtube             = "https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q"
     paypal              = ""
-    instagram           = ""
+    instagram           = "https://www.instagram.com/mythicoceangame/"
     reddit              = ""
     email               = "mailto:contact@paralune.com"
     pinterest           = ""

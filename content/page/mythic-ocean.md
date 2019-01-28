@@ -2,61 +2,136 @@
 title: "Mythic Ocean"
 date: 2017-08-15T18:19:22-05:00
 draft: false
+type: "custom-page"
+layout: "game-page"
 author: "Admin"
+game-name: "Mythic Ocean"
 ---
 
-## About the Game
+<img id="top-banner" src="/images/mythic-ocean-splash/MythicOceanBanner.png" width="100%">
 
-Check out the Mythic Ocean [presskit!](http://press.mythicoceangame.com/sheet.php?p=mythic_ocean)
+# BEFRIEND THE GODS
 
-_Mythic Ocean_ is a single-player, first-person game that combines underwater exploration with interactive narrative. You'll meet and befriend a pantheon of gods, and your conversation choices will change how they feel and build relationships between them. The world they create in the end is determined by your influence.
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <div class="video-container">
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/DNssfG2ZPAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
 
-The game is currently in development, but it can now be wishlisted on Steam!
+<!-- Steam widget -->
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <iframe src="http://store.steampowered.com/widget/814360/" frameborder="0" width="80%" height="190" style=""></iframe>
+    </div>
+</div>
 
-<iframe src="http://store.steampowered.com/widget/814360/" frameborder="0" width="646" height="190"></iframe>
+### MAKE CHOICES THAT SHAPE THE COSMOS
 
-## Trailers
+<!-- Features -->
+<div class="blurb-container">
+    <div class="left-aligned-blurb">
+        <ul>
+            <li>Narrative Exploration - through deep conversations with gods, your choices influence the fate of the universe.</li>
+            <li>Diverse, peaceful underwater environments</li>
+            <li>Meet tons of goofy, charming creatures</li>
+            <li>No death, no combat, no failure. The challenge is influencing the gods to get the result you want - outcomes range between harmony and pandemonium.</li>
+            <li>There's a breakdancing crab.</li>
+            <li>Launches for Windows PC in late 2019.</li>
+        </ul>
+    </div>
+</div>
 
-{{< youtube l5DNOmEBLcA >}}
+## [STEAM](https://store.steampowered.com/app/814360/Mythic_Ocean/) • [DISCORD](https://discordapp.com/invite/6SXk7f8) • [TWITTER](https://twitter.com/MythicOceanGame) • [INSTAGRAM](https://www.instagram.com/mythicoceangame/)
 
-## Screenshots
+<img id="eyecatch-banner-01" src="/images/mythic-ocean-splash/MythicOceanEyecatch01.png" width="100%">
 
-Click any of the screenshots for a high-resolution version.
+<!-- Quotes -->
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <p>
+            <i>"Every encounter in the demo, actually, was funny and charming and even oddly sad in a beautiful way."</i>
+            <br />
+            -Tim Poon, <a href="http://workingmirror.com/2018/03/19/mythic-ocean-hands-on-at-sxsw-2018">Working Mirror</a>
+        </p>
+        <br />
+        <p>
+            <i>"...fascinating and beautifully designed...there are a massive number of places to explore and things to do. I enjoyed every minute."</i>
+            <br />
+            -Chloe Price, <a href="https://gameluster.com/impressions-mythic-ocean-exploring-cute-easygoing-underwater-world/">GameLuster</a>
+        </p>
+        <br />
+        <p>
+            <i>"I don't wanna leave this world, it's lovely."</i>
+            <br />
+            -embopp, <a href="https://twitch.tv/embopp">twitch.tv/embopp</a>
+        </p>
+    </div>
+</div>
 
-[![Screenshot 01](/images/presskit/screenshots/preview/screenshot_01.png)](/images/presskit/screenshots/high/screenshot_01.png)
+<!-- Screenshots -->
+<div class="image-gallery">
+    <div class="image-grid">
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_01.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_01.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_02.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_02.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_03.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_03.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_04.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_04.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_05.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_05.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_06.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_06.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_07.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_07.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_08.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_08.png" class="adaptive-image">
+            </a>
+        </div>
+        <div class="image-cell">
+            <a href="/images/presskit/screenshots/high/screenshot_01.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_01.png" class="adaptive-image">
+            </a>
+        </div>
+    </div>
+</div>
 
-[![Screenshot 02](/images/presskit/screenshots/preview/screenshot_02.png)](/images/presskit/screenshots/high/screenshot_02.png)
+<!-- Music preview -->
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <div class="video-container">
+            <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/478685800&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=false"></iframe>
+        </div>
+    </div>
+</div>
 
-[![Screenshot 03](/images/presskit/screenshots/preview/screenshot_03.png)](/images/presskit/screenshots/high/screenshot_03.png)
-
-[![Screenshot 04](/images/presskit/screenshots/preview/screenshot_04.png)](/images/presskit/screenshots/high/screenshot_04.png)
-
-[![Screenshot 05](/images/presskit/screenshots/preview/screenshot_05.png)](/images/presskit/screenshots/high/screenshot_05.png)
-
-[![Screenshot 06](/images/presskit/screenshots/preview/screenshot_06.png)](/images/presskit/screenshots/high/screenshot_06.png)
-
-[![Screenshot 07](/images/presskit/screenshots/preview/screenshot_07.png)](/images/presskit/screenshots/high/screenshot_07.png)
-
-[![Screenshot 08](/images/presskit/screenshots/preview/screenshot_08.png)](/images/presskit/screenshots/high/screenshot_08.png)
-
-## Platforms
-
-We're using Unreal Engine 4 and currently planning for a PC release on Steam. We're considering support for consoles as well.
-
-## Release Date
-
-We're planning to release in 2019, but our official release date is TBA.
-
-## Links
-
-[Presskit](http://press.mythicoceangame.com/)
-
-[Twitter](https://twitter.com/MythicOceanGame)
-
-[Youtube](https://www.youtube.com/channel/UCVkwnM-fd8gv5Fsx7FuDA7Q)
-
-[Mailing list](http://eepurl.com/dnNdaf)
-
-## Press
-
-Are you a member of the press, or just want to get in touch directly? Check out our [presskit](http://press.mythicoceangame.com/)! You can contact us via [e-mail](mailto:contact@paralune.com).
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <img src="/images/logo-white-small.png" style="margin-top: 25px">
+    </div>
+</div>
