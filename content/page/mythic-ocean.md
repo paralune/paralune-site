@@ -126,8 +126,8 @@ game-name: "Mythic Ocean"
             </a>
         </div>
         <div class="image-cell">
-            <a href="/images/presskit/screenshots/high/screenshot_01.png">
-                <img src="/images/presskit/screenshots/preview/screenshot_01.png" class="adaptive-image">
+            <a href="/images/presskit/screenshots/high/screenshot_09.png">
+                <img src="/images/presskit/screenshots/preview/screenshot_09.png" class="adaptive-image">
             </a>
         </div>
     </div>
