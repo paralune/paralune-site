@@ -2,6 +2,43 @@
 <html lang="{{ .Site.LanguageCode }}">
     {{ partial "head.html" . }}
 
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup {
+            clear:left;
+            font:14px Helvetica,Arial,sans-serif;
+            width:100%;
+        }
+        #mc_embed_signup input.email {
+            background-color: #6CD1CB;
+            color: #000A0F;
+            border: 1px;
+            font-family: '{{ replace .Site.Params.fontbody "+" " "}}';
+        }
+        ::placeholder {
+            color: #3e7a76;
+            opacity: 1; /* Force Firefox not to change opacity */
+        }
+        :-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: #3e7a76;
+        }
+        ::-ms-input-placeholder { /* Microsoft Edge */
+            color: #3e7a76;
+        }
+
+        #mc_embed_signup .button {
+            color: #E7E7D1;
+            background-color: #008963;
+            font-family: '{{ replace .Site.Params.fontheading "+" " "}}';
+            font-size: 20px;
+        }
+        #mc_embed_signup .button:hover {
+            background-color: #003a2a;
+        }
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/mythic-ocean.css" />
 
     <body>
@@ -11,7 +48,7 @@
         <div id="announcement">
             {{ .Content }}
 
-            <p style="padding: 15px">
+            <p style="margin: 15px">
                 {{ .Site.Params.copyright }}
             </p>
         </div>
