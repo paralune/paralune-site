@@ -15,7 +15,7 @@ game-name: "Mythic Ocean"
 <div class="blurb-container">
     <div class="centered-blurb">
         <div class="video-container">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/l5DNOmEBLcA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/uD4B42gmu-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>
@@ -34,8 +34,8 @@ game-name: "Mythic Ocean"
     <div class="left-aligned-blurb">
         <ul>
             <li>Narrative Exploration - through deep conversations with gods, your choices influence the fate of the universe.</li>
-            <li>Diverse, peaceful underwater environments</li>
-            <li>Meet tons of goofy, charming creatures</li>
+            <li>Diverse, peaceful underwater environments.</li>
+            <li>Meet tons of goofy, charming creatures.</li>
             <li>No death, no combat, no failure. The challenge is influencing the gods to get the result you want - outcomes range between harmony and pandemonium.</li>
             <li>There's a breakdancing crab.</li>
             <li>Launches for Windows PC in late 2019.</li>
