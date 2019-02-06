@@ -3,7 +3,7 @@ title: "Mythic Ocean"
 date: 2017-08-15T18:19:22-05:00
 draft: false
 type: "custom-page"
-layout: "game-page"
+layout: "mythic-ocean-splash"
 author: "Admin"
 game-name: "Mythic Ocean"
 ---
