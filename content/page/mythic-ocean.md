@@ -6,6 +6,10 @@ type: "custom-page"
 layout: "mythic-ocean-splash"
 author: "Admin"
 game-name: "Mythic Ocean"
+twitter: "@MythicOceanGame"
+meta_image: "http://paralune.com/images/mythic-ocean-splash/mo-meta-card.jpg"
+description: "Befriend gods and make choices that shape the cosmos. Coming in 2019."
+site_name: "Mythic Ocean"
 ---
 
 <img id="top-banner" src="/images/mythic-ocean-splash/MythicOceanBanner.png" width="100%">

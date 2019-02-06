@@ -25,24 +25,24 @@
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@ParaluneGames" />
-    <meta name="twitter:title" content="Paralune" />
-    <meta name="twitter:description" content="A 3-person game studio in Austin, TX. Our players are storytellers too." />
-    <meta name="twitter:image:src" content="" />
-    <meta name="twitter:player" content="http://paralune.com/images/paralune-meta-card.jpg" />
+    <meta name="twitter:site" content="{{ with .Params.twitter }}{{ . }}{{ else }}{{ .Site.Params.twitter }}{{ end }}" />
+    <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}" />
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <meta name="twitter:image:src" content="{{ with .Params.meta_image }}{{ . }}{{ else }}{{ .Site.Params.meta_image }}{{ end }}" />
+    <meta name="twitter:player" content="" />
 
     <!-- Open Graph protocol -->
-    <meta property="og:url" content="http://paralune.com">
-    <meta property="og:title" content="Paralune">
-    <meta property="og:description" content="A 3-person game studio in Austin, TX. Our players are storytellers too.">
-    <meta property="og:site_name" content="Paralune">
-    <meta property="og:image" content="http://paralune.com/images/paralune-meta-card.jpg">
-    <meta property="fb:admins" content="">
-    <meta property="fb:app_id" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:audio" content="">
-    <meta property="og:video" content="">
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ .Site.Params.Title }}{{ end }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}" />
+    <meta property="og:site_name" content="{{ with .Params.site_name }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}" />
+    <meta property="og:image" content="{{ with .Params.meta_image }}{{ . }}{{ else }}{{ .Site.Params.meta_image }}{{ end }}" />
+    <meta property="fb:admins" content="" />
+    <meta property="fb:app_id" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:audio" content="" />
+    <meta property="og:video" content="" />
 
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />

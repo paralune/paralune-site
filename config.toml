@@ -1,6 +1,6 @@
 baseurl                 = "http://paralune.com/"
 languageCode            = "en-us"
-title                   = "paralune"
+title                   = "Paralune"
 theme                   = "hugo-phlat-theme"
 description             = "Paralune is a game studio making games about feelings."
 
@@ -53,6 +53,8 @@ description             = "Paralune is a game studio making games about feelings
     keywords            = ["paralune", "indie games", "game studio", "mythic ocean", "underwater", "exploration"]
     description         = "Paralune is a 3-person game studio based in Austin, TX. We make narrative-focused games that allow our players to be storytellers, too."
     copyright           = "Copyright 2019 Paralune, LLC"
+    twitter             = "@ParaluneGames"
+    meta_image          = "http://paralune.com/images/paralune-meta-card.jpg"
     google_analytics    = ""
     google_adsense      = ""
     disqus              = "paralune"
