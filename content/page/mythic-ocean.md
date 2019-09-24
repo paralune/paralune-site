@@ -8,7 +8,7 @@ author: "Admin"
 game-name: "Mythic Ocean"
 twitter: "@MythicOceanGame"
 meta_image: "http://paralune.com/images/mythic-ocean-splash/mo-meta-card.jpg"
-description: "Befriend gods and make choices that shape the cosmos. Coming in 2019."
+description: "Befriend gods and make choices that shape the cosmos. Coming in 2020."
 site_name: "Mythic Ocean"
 ---
 
@@ -42,7 +42,7 @@ site_name: "Mythic Ocean"
             <li>Meet tons of goofy, charming creatures.</li>
             <li>No death, no combat, no failure. The challenge is influencing the gods to get the result you want - outcomes range between harmony and pandemonium.</li>
             <li>There's a breakdancing crab.</li>
-            <li>Launches for Windows PC in late 2019.</li>
+            <li>Launches for Windows PC in early 2020.</li>
         </ul>
     </div>
 </div>
