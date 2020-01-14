@@ -42,21 +42,9 @@ site_name: "Mythic Ocean"
             <li>Meet tons of goofy, charming creatures.</li>
             <li>No death, no combat, no failure. The challenge is influencing the gods to get the result you want - outcomes range between harmony and pandemonium.</li>
             <li>There's a breakdancing crab.</li>
-            <li>Launches for Windows PC in early 2020.</li>
+            <li>Available now on Windows PC!</li>
         </ul>
     </div>
-</div>
-
-<!-- MailChimp signup form -->
-<div id="mc_embed_signup">
-    <form action="https://paralune.us16.list-manage.com/subscribe/post?u=6d5a66945ecda2984514a1854&amp;id=8064d65947" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div id="mc_embed_signup_scroll">
-            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email for Mythic Ocean news!" required>
-            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
-            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6d5a66945ecda2984514a1854_8064d65947" tabindex="-1" value=""></div>
-            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-    </form>
 </div>
 
 ## [PRESSKIT](http://press.mythicoceangame.com/sheet.php?p=mythic_ocean) • [STEAM](https://store.steampowered.com/app/814360/Mythic_Ocean/) • [DISCORD](https://discordapp.com/invite/6SXk7f8) • [TWITTER](https://twitter.com/MythicOceanGame) • [INSTAGRAM](https://www.instagram.com/mythicoceangame/)
