@@ -156,12 +156,16 @@ site_name: "Mythic Ocean"
 
 <div class="blurb-container">
     <div class="centered-blurb">
-        <img src="/images/logo-white-small.png" style="margin-top: 25px">
+		<a href="http://www.paralune.com/" target="_blank" rel="noopener noreferrer">
+                <img src="/images/logo-white-small.png" class="adaptive-image" style="margin-top: 25px">
+            </a>
     </div>
 </div>
 
 <div class="blurb-container">
     <div class="centered-blurb">
-        <img src="/images/nakana-logo-small.png" style="margin-top: 0px">
+		<a href="https://www.nakana.io/" target="_blank" rel="noopener noreferrer">
+                <img src="/images/nakana-logo-small.png" class="adaptive-image">
+            </a>
     </div>
 </div>
