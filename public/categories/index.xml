@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Paralune</title>
+    <link>http://paralune.com/categories/</link>
+    <description>Recent content in Categories on Paralune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2021 Paralune, LLC</copyright>
+    <lastBuildDate>Wed, 11 Dec 2019 16:39:41 -0600</lastBuildDate>
+    
+	<atom:link href="http://paralune.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcements</title>
+      <link>http://paralune.com/categories/announcements/</link>
+      <pubDate>Wed, 11 Dec 2019 16:39:41 -0600</pubDate>
+      
+      <guid>http://paralune.com/categories/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mythic Ocean</title>
+      <link>http://paralune.com/categories/mythic-ocean/</link>
+      <pubDate>Wed, 11 Dec 2019 16:39:41 -0600</pubDate>
+      
+      <guid>http://paralune.com/categories/mythic-ocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studio</title>
+      <link>http://paralune.com/categories/studio/</link>
+      <pubDate>Tue, 01 Aug 2017 03:41:55 -0500</pubDate>
+      
+      <guid>http://paralune.com/categories/studio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

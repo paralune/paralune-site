@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Paralune</title>
+    <link>http://paralune.com/page/</link>
+    <description>Recent content in Pages on Paralune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2021 Paralune, LLC</copyright>
+    <lastBuildDate>Tue, 15 Aug 2017 18:19:22 -0500</lastBuildDate>
+    
+	<atom:link href="http://paralune.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mythic Ocean</title>
+      <link>http://paralune.com/mythic-ocean/</link>
+      <pubDate>Tue, 15 Aug 2017 18:19:22 -0500</pubDate>
+      
+      <guid>http://paralune.com/mythic-ocean/</guid>
+      <description>BEFRIEND THE GODS     GET IT NOW ON:     COMING SOON FOR:     MAKE CHOICES THAT SHAPE THE COSMOS  Narrative Exploration - through deep conversations with gods, your choices influence the fate of the universe. Diverse, peaceful underwater environments. Meet tons of goofy, charming creatures. No death, no combat, no failure. The challenge is influencing the gods to get the result you want - outcomes range between harmony and pandemonium.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://paralune.com/about/</link>
+      <pubDate>Mon, 24 Jul 2017 03:25:50 -0500</pubDate>
+      
+      <guid>http://paralune.com/about/</guid>
+      <description>Paralune is a 3-person game studio in Austin, TX, founded in 2016 with the purpose of creating emotional stories with deep interactivity.
+Exploring the thoughts and feelings of the characters in our games is our focus, and players will be asked to make choices that have real consequences. Our players are storytellers, too.
+Our first title is currently unannounced and in development, so follow us on social media to get regular updates.</description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>http://paralune.com/jobs/</link>
+      <pubDate>Mon, 24 Jul 2017 03:25:50 -0500</pubDate>
+      
+      <guid>http://paralune.com/jobs/</guid>
+      <description>We don&amp;rsquo;t have any open positions right now, but in the future they&amp;rsquo;ll be posted on this page.
+Regardless, we would love to hear from you &amp;ndash; just send your resume (and website/portfolio if applicable) to contact@paralune.com.</description>
+    </item>
+    
+  </channel>
+</rss>

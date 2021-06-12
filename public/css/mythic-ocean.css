@@ -1,0 +1,92 @@
+/* paralune-phlat.css overrides for the Mythic Ocean splash page. */
+
+body {
+    padding-top: 0px;
+
+    background: url('/images/mythic-ocean-splash/WaterBackground.png');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    color: #e7e7d1;
+}
+
+#top-banner {
+    margin-bottom: 10px;
+}
+
+#eyecatch-banner-01 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#announcement {
+    text-align: center;
+}
+
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+	height: 0;
+}
+.video-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+    height: 100%;
+}
+
+.blurb-container {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.centered-blurb {
+    width: 800px;
+    text-align: center;
+}
+.left-aligned-blurb {
+    width: 800px;
+    text-align: left;
+}
+
+.image-gallery {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 10px;
+}
+
+.adaptive-image {
+    max-width: 100%;
+}
+
+.image-cell img {
+    display: block;
+    padding: 5px;
+}
+
+/* Tablet view: rows of 2 */
+@media screen and (min-width: 600px) {
+    .image-grid {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .image-cell {
+        width: 50%;
+    }
+}
+
+/* Desktop view: rows of 3 */
+@media screen and (min-width: 1000px) {
+    .image-cell {
+        width: calc(100% / 3);
+    }
+}
