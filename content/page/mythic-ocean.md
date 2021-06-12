@@ -19,15 +19,35 @@ site_name: "Mythic Ocean"
 <div class="blurb-container">
     <div class="centered-blurb">
         <div class="video-container">
-            <iframe width="560" height="349" src="https://www.youtube.com/embed/uD4B42gmu-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="349" src="https://youtu.be/YyGySBNKl7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>
 
-<!-- Steam widget -->
+# GET IT NOW ON:
+
 <div class="blurb-container">
     <div class="centered-blurb">
-        <iframe src="http://store.steampowered.com/widget/814360/" frameborder="0" width="80%" height="190" style=""></iframe>
+            <a href="https://store.steampowered.com/app/814360/Mythic_Ocean/" target="_blank" rel="noopener noreferrer">
+                <img src="/images/Steam_websitebutton.png" class="adaptive-image">
+            </a>
+            <a href="https://paralune.itch.io/mythic-ocean" target="_blank" rel="noopener noreferrer">
+                <img src="/images/Itch_websitebutton.png" class="adaptive-image">
+            </a>
+    </div>
+</div>
+
+# COMING SOON FOR:
+
+<div class="blurb-container">
+    <div class="centered-blurb" style="margin-bottom: 25px">
+            <a href="https://nintendo.com/games/detail/mythic-ocean-switch/" target="_blank" rel="noopener noreferrer">
+                <img src="/images/Switch_websitebutton.png" class="adaptive-image">
+            </a>
+            <a href="https://store.playstation.com/concept/10002278" target="_blank" rel="noopener noreferrer">
+                <img src="/images/PS4_websitebutton.png" class="adaptive-image">
+            </a>
+			<img src="/images/XboxOne_websitebutton.png" class="adaptive-image">
     </div>
 </div>
 
@@ -47,7 +67,7 @@ site_name: "Mythic Ocean"
     </div>
 </div>
 
-## [PRESSKIT](http://press.mythicoceangame.com/sheet.php?p=mythic_ocean) • [STEAM](https://store.steampowered.com/app/814360/Mythic_Ocean/) • [DISCORD](https://discordapp.com/invite/6SXk7f8) • [TWITTER](https://twitter.com/MythicOceanGame) • [INSTAGRAM](https://www.instagram.com/mythicoceangame/)
+## [PRESSKIT](http://press.mythicoceangame.com/sheet.php?p=mythic_ocean) •  [DISCORD](https://discordapp.com/invite/6SXk7f8) • [TWITTER](https://twitter.com/MythicOceanGame) • [INSTAGRAM](https://www.instagram.com/mythicoceangame/)
 
 <img id="eyecatch-banner-01" src="/images/mythic-ocean-splash/MythicOceanEyecatch01.png" width="100%">
 
@@ -137,5 +157,11 @@ site_name: "Mythic Ocean"
 <div class="blurb-container">
     <div class="centered-blurb">
         <img src="/images/logo-white-small.png" style="margin-top: 25px">
+    </div>
+</div>
+
+<div class="blurb-container">
+    <div class="centered-blurb">
+        <img src="/images/nakana-logo-small.png" style="margin-top: 0px">
     </div>
 </div>
