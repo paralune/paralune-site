@@ -47,7 +47,8 @@ site_name: "Mythic Ocean"
             <a href="https://store.playstation.com/concept/10002278" target="_blank" rel="noopener noreferrer">
                 <img src="/images/PS4_websitebutton.png" class="adaptive-image">
             </a>
-			<img src="/images/XboxOne_websitebutton.png" class="adaptive-image">
+			<a href="https://www.microsoft.com/en-us/p/mythic-ocean/9p21qbn5jswb" target="_blank" rel="noopener noreferrer">
+				<img src="/images/XboxOne_websitebutton.png" class="adaptive-image">
     </div>
 </div>
 
